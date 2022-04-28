@@ -37,6 +37,10 @@
   color: var(--gray);
 }
 
+.open-chat {
+  margin-top: 15px;
+}
+
 .open-chat__header {
   display: flex;
   justify-content: space-between;
